@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Kyrgyz-AI/static/css/main.3869883e.css",
+    "main.js": "/Kyrgyz-AI/static/js/main.cabae3ba.js",
+    "static/media/off.wav": "/Kyrgyz-AI/static/media/off.797f7482081b61e99e9f.wav",
+    "static/media/hello.mp3": "/Kyrgyz-AI/static/media/hello.9ff4a49710bece348687.mp3",
+    "static/media/ok.mp3": "/Kyrgyz-AI/static/media/ok.16120e00196aa043f9f6.mp3",
+    "static/media/yaleikym.mp3": "/Kyrgyz-AI/static/media/yaleikym.f3c534e460172a646811.mp3",
+    "static/media/salam.mp3": "/Kyrgyz-AI/static/media/salam.bcedaef363d6ade71e22.mp3",
+    "index.html": "/Kyrgyz-AI/index.html",
+    "main.3869883e.css.map": "/Kyrgyz-AI/static/css/main.3869883e.css.map",
+    "main.cabae3ba.js.map": "/Kyrgyz-AI/static/js/main.cabae3ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3869883e.css",
+    "static/js/main.cabae3ba.js"
+  ]
+}
